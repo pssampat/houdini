@@ -1,0 +1,4 @@
+""" Basic VEX Codes for daily usage """
+
+# Generating geoId param
+i@id = fit(random(@ptnum,100),0,1,0,10);
